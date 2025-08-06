@@ -46,7 +46,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ## 🛤️ Ruta de Aprendizaje
 
 ### 🎮 Paso Previo: Learn Git Branching (Tutorial Visual)
-**Duración estimada: 2-3 horas**
 
 - ✅ Introducción visual a Git
 - ✅ Comprensión de commits, branches y merge
@@ -58,7 +57,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ---
 
 ### 🟢 Nivel 0: Setup y Configuración
-**Duración estimada: 2-3 horas**
 
 - ✅ Instalación de Git en diferentes sistemas operativos
 - ✅ Configuración inicial del entorno
@@ -71,7 +69,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ---
 
 ### 🔵 Nivel 1: Comandos Básicos
-**Duración estimada: 4-5 horas**
 
 - ✅ `git init` - Inicialización de repositorios
 - ✅ `git add` - Preparación de cambios
@@ -84,7 +81,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ---
 
 ### 🟡 Nivel 2: Ramificación Básica
-**Duración estimada: 6-7 horas**
 
 - ✅ `git branch` - Gestión de ramas
 - ✅ `git checkout` - Cambio entre ramas
@@ -97,7 +93,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ---
 
 ### 🟠 Nivel 3: Merge y Conflictos
-**Duración estimada: 8-9 horas**
 
 - ✅ `git merge` - Fusión de ramas
 - ✅ Tipos de merge (fast-forward, 3-way)
@@ -110,7 +105,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 ---
 
 ### 🔴 Nivel 4: Revertir Cambios
-**Duración estimada: 6-7 horas**
 
 - ✅ `git reset` - Deshacer cambios locales
 - ✅ `git revert` - Revertir commits de forma segura
@@ -136,8 +130,6 @@ Este repositorio contiene un curso completo de Git organizado en niveles progres
 - 🇦🇷 **En español**: Interfaz completamente en español argentino
 - ⚡ **Sin instalación**: Funciona directamente en el navegador
 - 🧠 **Comprensión conceptual**: Entiendes el "por qué" antes del "cómo"
-
-**Tiempo recomendado:** 2-3 horas para los conceptos básicos
 
 **Niveles sugeridos para completar:**
 1. ✅ **Introducción a Git** (Niveles 1-4)
@@ -274,44 +266,6 @@ Este material está diseñado para ser usado en:
 - Técnicas de limpieza de historial
 - Flujos de trabajo profesionales
 
-## 🤝 Contribuciones
-
-Este es un proyecto educativo abierto. Las contribuciones son bienvenidas:
-
-### Cómo Contribuir
-1. Fork del repositorio
-2. Crear rama para tu feature: `git checkout -b feature/mejora-nivel-X`
-3. Commit de cambios: `git commit -m 'Agregar ejercicio para concepto Y'`
-4. Push a la rama: `git push origin feature/mejora-nivel-X`
-5. Crear Pull Request
-
-### Tipos de Contribuciones Valoradas
-- 📝 Mejoras en explicaciones teóricas
-- 💻 Nuevos ejercicios prácticos
-- 🐛 Corrección de errores
-- 🌍 Traducciones
-- 📊 Ejemplos adicionales
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👨‍🏫 Sobre el Instructor
-
-Proyecto desarrollado como material educativo para enseñanza de Git y control de versiones a estudiantes de programación.
-
-### Contacto y Soporte
-- 📧 Email: [tu-email@ejemplo.com]
-- 💬 Issues: Usar el sistema de issues de GitHub
-- 📚 Recursos adicionales: Ver sección de documentación
-
-## 🙏 Agradecimientos
-
-- **Git Documentation Team** - Por la excelente documentación oficial
-- **GitHub Education** - Por las herramientas educativas
-- **Atlassian Git Tutorials** - Por los recursos de aprendizaje
-- **Pro Git Book** - Por ser una referencia completa
-
 ## 📚 Recursos Adicionales
 
 ### Documentación Oficial
@@ -319,15 +273,9 @@ Proyecto desarrollado como material educativo para enseñanza de Git y control d
 - [GitHub Docs](https://docs.github.com/)
 - [Git Reference](https://git-scm.com/docs)
 
-### Libros Recomendados
-- **Pro Git** by Scott Chacon (Gratuito online)
-- **Git Pocket Guide** by Richard E. Silverman
-- **Version Control with Git** by Jon Loeliger
-
 ### Cursos Online Complementarios
 - **[Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)** - 🌟 **HERRAMIENTA PRINCIPAL** - Tutorial visual interactivo
 - [Visualizing Git](http://git-school.github.io/visualizing-git/) - Visualización de comandos Git
-- [GitHub Learning Lab](https://lab.github.com/) - Ejercicios prácticos con GitHub
 
 ---
 
